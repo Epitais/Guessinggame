@@ -1,2 +1,2 @@
-# Guessinggame
-A short and simple guessing game.
+# Guessing Game
+A short and simple guessing game. The aim of the game is to guess the number which is chosen from 1-100. The program will tell you if your guess is higher or lower than the computer's chosen number. At the end of the game, you can choose to try again or quit. The program tracks your correct guesses, turns and rounds. A correct guess is worth 1 point and a guess on your your first try is worth 5 points.
